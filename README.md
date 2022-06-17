@@ -5,9 +5,7 @@
 
 ## 一、Dart与HTML集成
 
-WEB: [https://dart.dev/tutorials/web/low-level-html/connect-dart-html](https://dart.dev/tutorials/web/low-level-html/connect-dart-html)
-
-PDF: [Connect-Dart-and-HTML.pdf](Connect-Dart-and-HTML.pdf)
+结果：成功的在Chrome上改写运行成功
 
 ## 注意
 
